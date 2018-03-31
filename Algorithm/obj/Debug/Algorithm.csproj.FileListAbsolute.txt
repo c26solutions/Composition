@@ -1,0 +1,5 @@
+C:\Source\Learnings\Composition\CS\Composition\Algorithm\bin\Debug\Algorithm.dll
+C:\Source\Learnings\Composition\CS\Composition\Algorithm\bin\Debug\Algorithm.pdb
+C:\Source\Learnings\Composition\CS\Composition\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+C:\Source\Learnings\Composition\CS\Composition\Algorithm\obj\Debug\Algorithm.dll
+C:\Source\Learnings\Composition\CS\Composition\Algorithm\obj\Debug\Algorithm.pdb
