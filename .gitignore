@@ -1,0 +1,6 @@
+
+*.lock
+*.ide
+*.ide-shm
+.vs/Composition/v15/.suo
+*.ide-wal
